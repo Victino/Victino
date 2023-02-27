@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Victino
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding, Sports, Gaming, Movies and Anime.
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Vitoj004@gmail.com
 
 <!---
